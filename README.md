@@ -1,3 +1,3 @@
 项目架构图：
 
-![项目](images\architecture.png)
+![项目](.\images\architecture.png)

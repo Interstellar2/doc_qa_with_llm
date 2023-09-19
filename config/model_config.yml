@@ -1,0 +1,7 @@
+models:
+  name:
+    - Baichuan-13B-Chat
+    - LLAMA-2-Chinese-13b-Chat
+    - internlm-chat-7b
+  embedding_api: http://localhost:28000/v1/embeddings
+  chat_completion_api: http://localhost:28000/v1/chat/completions

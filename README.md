@@ -1,3 +1,1 @@
-项目架构图：
-
-![项目](.\images\architecture.png)
+基于flask + langchain + llm构建的文档问答服务
